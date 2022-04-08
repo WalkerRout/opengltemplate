@@ -1,5 +1,9 @@
 # Prerequisites
 *.d
+.vscode
+*.swp
+.DS_Store
+bin/
 
 # Object files
 *.o
