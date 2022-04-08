@@ -1,9 +1,9 @@
 # Prerequisites
 *.d
-.vscode/
+.vscode/*
 *.swp
 .DS_Store
-bin/
+bin/*
 
 # Object files
 *.o
